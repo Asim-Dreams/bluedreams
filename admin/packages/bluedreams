@@ -1,0 +1,10 @@
+
+[Global]
+CSN=CSN-bluedreams-0
+Version=1
+Buildorder=1000
+Lock=asim-bluedreams
+Prerelease=1
+Name=bluedreams
+Description=Description of bluedreams
+Tag=HEAD
